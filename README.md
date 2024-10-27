@@ -22,34 +22,43 @@ Interactive Educational Content: Learn about sustainability through lessons, cas
 Community Engagement: Forums and events to connect users and foster collaboration.
 Personalized Learning Experience: Track progress with personalized profiles and learning tools.
 Resource Library: Access articles, videos, infographics, and D.I.Y. guides for sustainable practices.
+
+
 Competitor Analysis
-Sustainify differentiates itself from competitors like R.E.A.N, G.I.F.S.E.P, W.E.P, and GreenQuest by emphasizing:
+Sustainify differentiates itself from competitors by emphasizing:
 
 Public Awareness and Outreach
 Clear, Up-to-Date Data
 Transparency in Funding and Impact Reports
+
+
 Getting Started
+
 Prerequisites
 To run this Flutter project, you’ll need:
 
 Flutter SDK installed
 An IDE like Visual Studio Code or Android Studio with Flutter plugins installed
 A mobile emulator or physical device for testing
+
+
 Setup Instructions
+
+Step 1
 Clone the Repository
-
-bash
-Copy code
-git clone https://github.com/your-repository/sustainify.git
+git clone (https://github.com/Skomaiya/Group11_Front-end_Implementation)
 cd sustainify
+
+
+Step 2
 Install Dependencies Run the following command to fetch the required dependencies:
-
-bash
-Copy code
 flutter pub get
-Run the App To start the app on an emulator or physical device, use:
 
-bash
-Copy code
+
+Step 3
+Run the App To start the app on an emulator or physical device, use:
 flutter run
+
+
+Step 4
 Navigating Between Pages Sustainify uses named routes for navigation. Pages are organized in separate files for better structure.
