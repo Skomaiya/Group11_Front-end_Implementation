@@ -5,9 +5,13 @@ Sustainify is an educational platform designed to engage young people in learnin
 
 Key Features
 User Registration: Create an account and authenticate securely.
+
 Interactive Educational Content: Access modules and case studies on sustainability topics.
+
 Community Engagement: Share ideas and participate in events.
+
 Data Integration: Uses real-time environmental data through APIs.
+
 Content Management System: Allows administrators to manage educational content.
 
 
@@ -15,12 +19,17 @@ The app targets various user types, including students, educators, environmental
 
 
 Project Summary
+
 The Sustainify platform aims to educate, engage, and empower users to adopt sustainable practices. Using interactive content and community-driven engagement tools, Sustainify promotes environmental responsibility through education, collaboration, and practical application. The platform fosters a dynamic learning environment to encourage positive change among users.
 
 Major Functions of the App
+
 Interactive Educational Content: Learn about sustainability through lessons, case studies, and real-world scenarios.
+
 Community Engagement: Forums and events to connect users and foster collaboration.
+
 Personalized Learning Experience: Track progress with personalized profiles and learning tools.
+
 Resource Library: Access articles, videos, infographics, and D.I.Y. guides for sustainable practices.
 
 
@@ -28,7 +37,9 @@ Competitor Analysis
 Sustainify differentiates itself from competitors by emphasizing:
 
 Public Awareness and Outreach
+
 Clear, Up-to-Date Data
+
 Transparency in Funding and Impact Reports
 
 
@@ -38,7 +49,9 @@ Prerequisites
 To run this Flutter project, you’ll need:
 
 Flutter SDK installed
+
 An IDE like Visual Studio Code or Android Studio with Flutter plugins installed
+
 A mobile emulator or physical device for testing
 
 
